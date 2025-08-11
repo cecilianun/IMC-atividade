@@ -1,0 +1,27 @@
+{
+  "name": "calculadora-imc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriela2712/Calculadora-IMC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabriela2712/Calculadora-IMC/issues"
+  },
+  "homepage": "https://github.com/gabriela2712/Calculadora-IMC#readme",
+  "description": ""
+}
